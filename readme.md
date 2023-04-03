@@ -6,7 +6,7 @@ This is an implementation of the classic game minesweeper using the command line
 ```Bash
 cargo run
 ```
-or use one of the provided executables in the releases.
+or use one of the provided executables in the [releases tab](https://git.alexanderbass.com/Alexander/cli-minesweeper/releases).
 
 ## How to play
 
