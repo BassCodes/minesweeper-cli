@@ -19,3 +19,6 @@ To quit, use `CTRL+C` or the `q` command.
 ## Screenshots
 
 !["Screenshot of gameplay"](screenshot.png)
+
+
+This repository's home is at [https://git.alexanderbass.com/Alexander/cli-minesweeper](https://git.alexanderbass.com/Alexander/cli-minesweeper) Contributions are still welcome if you're viewing this on GitHub.
